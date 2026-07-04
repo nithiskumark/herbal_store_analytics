@@ -29,7 +29,7 @@ Without actionable insights, the business struggles to optimize inventory, marke
 
 ---
 
-# 🎯 Project Objectives
+# 🎯 Objectives
 
 The primary objectives of this project are to:
 
